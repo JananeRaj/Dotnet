@@ -1,0 +1,6 @@
+  string strcon = "integrated security = true; initial catalog= sqlpractice;data source = DESKTOP-0EM9GEE";
+//new connection string
+
+  <connectionStrings>
+    <add name="sqlpracticeconn" connectionString="user id=sa;password=P@ssw0rd; data source=DESKTOP-0EM9GEE; initial catalog=sqlpractice" providerName="System.Data.SqlClient"/> 
+  </connectionStrings>
